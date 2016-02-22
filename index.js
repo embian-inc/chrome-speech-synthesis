@@ -14,7 +14,7 @@
 // Configuration
 ////////////////////////////////////////////////////////////////////////
 var servicePort = 3000;
-var BROADCAST_KEY = "embian";
+var BROADCAST_KEY = "embian1517";
 var defaultVoice = "ko-KR";
 // you can change the keyLength to much bigger size if you want
 var keyLength = 4;
